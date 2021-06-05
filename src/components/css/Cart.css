@@ -1,0 +1,13 @@
+.row {
+    margin: auto;
+    width: 50%;
+}
+
+.row .buy {
+    width: 150px;
+}
+
+.row .delete {
+    width: 150px;
+    
+}
