@@ -1,6 +1,6 @@
 # Shopping Cart
 
-React kullanılarak oluşturulmuş vücut kitle indeksi hesaplama uygulaması.
+React kullanılarak oluşturulmuş shopping cart çalışması.
 
 ### Proje Nasıl Çalıştırılır
 
